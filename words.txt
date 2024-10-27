@@ -1,0 +1,3000 @@
+a,하나의,초등
+abandon,버리다,중고
+able,할 수 있는,중고
+aboard,배로,중고
+abort,유산하다,전문
+about,-에 대하여,초등
+above,-보다 위에,초등
+abroad,외국으로,중고
+absent,부재의,중고
+absolute,절대의,중고
+absorb,흡수하다,중고
+abstract,추상적인,중고
+absurd,불합리한,전문
+abundant,풍부한,중고
+abuse,남용,중고
+academy,학술원,초등
+accelerate,가속하다 속도가 가해지다,중고
+accent,액센트,초등
+accept,받아들이다,중고
+access,접근,중고
+accident,뜻밖의 사건,초등
+accommodate,수용하다,중고
+accompany,동반하다,중고
+accomplish,이루다,중고
+accord,일치하다,전문
+account,설명하다 계산,중고
+accumulate,축적하다,전문
+accurate,정확한,중고
+accuse,고발하다,중고
+achieve,성취하다,중고
+acid,산 신,중고
+acknowledge,인정하다,중고
+acquaint,알리다,전문
+acquire,얻다,중고
+acquisition,획득,전문
+across,가로질러,초등
+act,vi행동하다,초등
+activate,활동적으로 하다,중고
+actual,현실의,중고
+acute,날카로운,중고
+adapt,적용시키다,중고
+add,추가하다,초등
+addict,열중하게 하다,중고
+address,말을 걸다,초등
+adequate,충분한,중고
+adjust,맞추다,중고
+administer,관리하다,중고
+admire,감복하다,중고
+admission,입장,중고
+admit,받아들이다,중고
+adolescent,청년기의,중고
+adopt,채용하다,중고
+adult,성인,초등
+advance,나아가다,중고
+advantage,유리한 입장,중고
+adventure,모험 모험하다,초등
+adverse,거꾸로의,전문
+advertize,광고하다,중고
+advise,충고하다,초등
+advocate,변호사,중고
+aesthetic,미적인,전문
+affair,일,중고
+affect,영향을 주다,중고
+affection,애정,중고
+affiliate,회원으로 가입시키다,전문
+afford,여유가 있다,중고
+afraid,두려워하여,초등
+after,후에,초등
+afternoon,오후,초등
+again,다시,초등
+against,…에 반대하여,초등
+age,연령,초등
+agency,기능,중고
+agenda,안건,중고
+agent,대리인,중고
+aggressive,침략적인,중고
+ago,이전에,초등
+agree,동의하다,초등
+agriculture,농업,중고
+ahead,전방에,초등
+aid,도와 주다,중고
+aim,겨누다,중고
+air,공기,초등
+airplane,비행기,초등
+aircraft,항공기,중고
+airline,정기항공,초등
+airport,공항,초등
+aisle,측면복도,중고
+alert,빈틈없는,중고
+alien,외국의,중고
+alike,비슷한,중고
+alive,살아있는,중고
+all,모든,초등
+allocate,할당하다,전문
+allow,허락하다,중고
+ally,동맹하다,중고
+almost,거의,초등
+alone,다만 홀로(혼자서),초등
+along,-을 따라,초등
+alongside,-의 곁에,중고
+aloud,큰 소리로,초등
+already,이미,초등
+alright,더할나위없이,초등
+also,-도 또한,초등
+alter,바꾸다,중고
+alternative,어느 한쪽의 양자택일,중고
+although,비록 -일지라도,중고
+altogether,전혀,중고
+always,늘,초등
+A.M.,오전,초등
+amaze,깜짝 놀라게 하다,중고
+ambassador,대사,중고
+ambition,야심,중고
+among,-중에,중고
+amount,(금액이)-이 되다,중고
+amplify,확대하다,전문
+amuse,재미나게 하다,중고
+analyze,분해하다,중고
+anchor,닻,중고
+ancient,옛날의,중고
+and,및,초등
+angel,천사,초등
+anger,성,초등
+angle,각,중고
+animal,동물,초등
+anniversary,기념일 예년의,중고
+announce,알리다,중고
+annoy,귀찮게하다,중고
+annual,일년의,중고
+another,또 하나,초등
+answer,대답,초등
+ant,개미,초등
+anticipate,예기하다,중고
+anxiety,근심,중고
+anxious,걱정되는,중고
+any,어떤,초등
+apart,떨어져서,중고
+apology,사과,중고
+apparent,명백한,중고
+appeal,간청하다,중고
+appear,나타나다,중고
+apple,사과,초등
+applicant,지원자,중고
+apply,(물건을)대다,중고
+appoint,지정하다,중고
+appreciate,감상하다,중고
+approach,다가가다,중고
+appropriate,적당한,중고
+approve,시인하다,중고
+approximate,어림셈의,중고
+architect,건축가,중고
+architecture,건축,중고
+archive,기록보관소,전문
+area,면적,초등
+argue,논하다,중고
+arise,생기다,중고
+arm,팔,초등
+army,육군,중고
+around,사방에,초등
+arrange,가지런히 하다,중고
+arrest,체포하다,중고
+arrive,도착하다,초등
+arrow,화살,중고
+art,예술,초등
+article,물품,중고
+artificial,인공의,중고
+as,-와 같은 정도로,초등
+ash,회,중고
+aside,곁에,중고
+ask,묻다,초등
+asleep,잠들은,중고
+aspect,관점,중고
+aspire,열망하다,중고
+assault,습격,전문
+assemble,모으다,중고
+assert,단언하다,중고
+assess,(세금 등을)사정하다,중고
+asset,자산,중고
+assign,할당하다,중고
+assist,돕다,중고
+associate,연상하다,중고
+assume,취하다,중고
+assure,보증하다,중고
+astonish,놀라게 하다,중고
+at,-에서,초등
+athlete,운동가,중고
+atmosphere,대기,중고
+atom,원자,중고
+attach,붙이다,중고
+attack,공격하다,중고
+attain,이르다,중고
+attempt,시도하다,중고
+attend,출석하다,중고
+attention,주의,중고
+attitude,태도,중고
+attorney,변호사,전문
+attract,끌어 당기다,중고
+attribute,속성,중고
+auction,경매,중고
+audience,청중,중고
+aunt,아주머니,초등
+authentic,진짜의,전문
+author,저자,중고
+autobiography,자서전,중고
+automatic,자동의,중고
+automobile,자동차 자동차의,중고
+available,쓸모있는,중고
+avenue,가로수길,중고
+average,평균,중고
+avoid,피하다,중고
+await,기다리다,중고
+awake,깨우다,중고
+award,상,중고
+aware,알고 있는,중고
+away,떨어져서,초등
+awesome,무서운,중고
+awful,두려운,중고
+awkward,어색한,중고
+baby,"갓난아이, 막내   관심사, 골치아픈 일,",초등
+back,등,초등
+background,배경,초등
+bad,나쁜,초등
+bake,굽다,초등
+balance,균형,중고
+ball,공,초등
+balloon,기구,초등
+ban,금지,중고
+band,그룹,초등
+bang,강타,중고
+bank,둑,초등
+bankrupt,파산자,전문
+bar,막대기,중고
+bare,벌거벗은,중고
+bargain,매매,중고
+bark,짖다,중고
+barn,헛간,중고
+barrier,장벽,중고
+base,기초,초등
+baseball,야구,초등
+basic,기본의,초등
+basis,기초,중고
+basket,바구니,초등
+basketball,농구,초등
+bat,배트,초등
+bath,목욕,초등
+bathroom,욕실,초등
+battery,전지,초등
+battle,전투,초등
+bay,만,중고
+be,-이다,초등
+beach,해안,초등
+beam,광선,중고
+bean,콩,초등
+bear,나르다,초등
+beard,턱수염,중고
+beast,짐승,중고
+beat,치다,중고
+beauty,아름다움,초등
+because,왜냐하면,초등
+become,-이 되다,초등
+bed,침대,초등
+bedroom,침실 성적인,초등
+bee,꿀벌,초등
+beef,쇠고기,초등
+beer,맥주,중고
+before,앞에,초등
+beg,청하다,중고
+begin,시작하다,초등
+behalf,위함,중고
+behave,행동하다,중고
+behavior,행동,중고
+behind,뒤에,초등
+believe,믿다,초등
+bell,종,초등
+belong,속하다,중고
+below,아래에,초등
+bend,구부리다,중고
+beneath,-의 바로 아래에,중고
+benefit,이익,중고
+berry,액과,중고
+beside,-의 곁에,초등
+bet,걸다,중고
+betray,배반하다,중고
+between,-의 사이에 사이에,초등
+beyond,저편에,중고
+bias,치우침,중고
+bible,"성서, 성경",중고
+bicycle,자전거 자전거를 타다,초등
+big,큰,초등
+bill,계산서,초등
+billion,10억,중고
+bin,궤,중고
+bind,매다,중고
+biography,전기,중고
+biology,생물학,중고
+bird,새,초등
+birth,출생,초등
+birthday,생일,초등
+bishop,주교,전문
+bit,bite의 과거(분사) 작은 조각,중고
+bite,물다,초등
+bitter,쓴,중고
+black,검은,초등
+blame,책망하다,중고
+blank,공백,중고
+blanket,담요,중고
+blast,돌풍,전문
+blend,혼합하다,중고
+bless,축복하다,중고
+blind,눈먼,중고
+blink,(눈을)깜빡거리다,중고
+block,덩어리,초등
+blonde,(살결이 흰)금발의 여성,중고
+blood,피,초등
+bloom,쇳덩이,중고
+blossom,(과수의)꽃,중고
+blow,강타,중고
+blue,푸른,초등
+board,널빤지,초등
+boat,배,초등
+body,신체,초등
+boil,끓다,중고
+bold,대담한,중고
+bomb,폭탄 폭격하다,초등
+bond,결속,중고
+bone,뼈,초등
+book,책,초등
+boom,굉음,중고
+boost,뒤를 밀기,중고
+boot,목이 긴 구두,초등
+border,가장자리,중고
+bore,고조,중고
+borrow,빌다,초등
+boss,두목,초등
+both,쌍방의,초등
+bother,괴롭히다 근심하다 귀찮음,중고
+bottle,병,초등
+bottom,밑바닥,초등
+bounce,뛰어오르다,중고
+boundary,경계,중고
+bow,절,중고
+bowl,사발,초등
+boy,소년,초등
+brain,뇌,초등
+brake,브레이크,초등
+branch,가지,초등
+brand,상표,초등
+brave,용감한,초등
+bread,빵,초등
+break,부수다,초등
+breakfast,아침밥,초등
+breast,가슴,중고
+breathe,숨쉬다,중고
+breed,기르다,전문
+breeze,미풍,중고
+brew,양조하다,전문
+brick,벽돌,중고
+bride,신부,중고
+bridge,다리,초등
+brief,단시간의,중고
+bright,밝은,초등
+brilliant,빛나는,중고
+bring,가져오다,초등
+broad,(폭이)넓은,중고
+broadcast,방송하다,중고
+brother,형제,초등
+brown,갈색의 갈색,초등
+brush,솔,초등
+brute,야수 짐승같은,전문
+bubble,거품 거품이 일다,초등
+budget,예산,중고
+bug,벌레,초등
+build,짓다,초등
+bulk,부피,전문
+bull,황소,중고
+bullet,탄환,중고
+bully,약한 자를 못살게 구는 자,중고
+bump,충돌 부딪치다,중고
+bunch,송이,중고
+bundle,다발,중고
+burden,후렴,중고
+burn,시내,초등
+burst,파열하다,중고
+bury,묻다,중고
+bush,덤불,중고
+business,직업,초등
+busy,바쁜,초등
+but,그러나 다만 (-을)제외하고,초등
+butcher,정육점주인,중고
+button,단추 단추를 채우다 단추로 채워지다,초등
+buy,사다,초등
+buzz,윙윙거리는 소리,중고
+by,곁에,초등
+cab,택시,중고
+cabin,선실,중고
+cable,해저전신,중고
+cage,새장,초등
+calculate,계산하다,중고
+calendar,달력,초등
+call,부르다,초등
+calm,평온한,초등
+can,au-할 수 있다,초등
+cancel,취소하다,중고
+cancer,암,중고
+candidate,지원자,중고
+candy,사탕과자,초등
+canvas,돛베,중고
+cap,모자,초등
+capable,할 수 있는,중고
+cape,곶,중고
+capital,수위의,중고
+captain,우두머리(chief),초등
+caption,표제,전문
+capture,붙잡다(=catch),중고
+car,자동차,초등
+care,걱정,초등
+career,경력,중고
+carrot,당근,초등
+carry,나르다,초등
+cart,(2륜)짐마차,초등
+carve,조각하다,중고
+case,경우,초등
+cash,현금 현금으로 바꾸다 현금의,초등
+cast,던지다,중고
+castle,성,초등
+casual,우연한,중고
+cat,고양이,초등
+catch,붙잡다,초등
+category,범주,중고
+cater,음식물을 마련하다,전문
+cathedral,대성당,전문
+cattle,소,중고
+causal,원인의,중고
+cause,원인,중고
+caution,조심,중고
+cave,동굴 굴을 파다 꺼지다,중고
+cease,그만두다 그치다 중지,중고
+ceiling,천장,중고
+celebrate,경축하다,중고
+celebrity,명성,중고
+cell,작은 방,중고
+censor,검열관,중고
+century,1세기,중고
+certain,확신하는,초등
+certificate,증명서,중고
+chain,사슬,초등
+chair,의장,초등
+chairman,의장,중고
+challenge,도전,중고
+chamber,방,전문
+chance,우연,초등
+change,변화,초등
+chaos,혼돈,중고
+character,인격,중고
+characteristic,특유한,중고
+charge,요금,중고
+charity,자비,중고
+charm,매력,중고
+chase,쫓다,중고
+chat,잡담,중고
+cheap,값싼,초등
+check,방해,초등
+cheek,볼,중고
+cheer,갈채,중고
+chef,쿡,중고
+chemical,화학의,중고
+chemistry,화학,중고
+chest,가슴팍,중고
+chew,씹다,중고
+chief,우두머리,중고
+child,아이,초등
+chill,차가움,중고
+chin,턱(끝) 턱에 대다,중고
+chip,(나무)토막,중고
+choir,(교회의)성가대,중고
+choose,고르다,초등
+chop,(도끼 등으로)자르다,중고
+chorus,합창,중고
+chronic,만성의,전문
+church,교회,초등
+cigarette,궐련,중고
+cinema,영화관,초등
+circle,원,초등
+circulate,순환하다,중고
+circumstance,환경,중고
+cite,인용하다(quote),중고
+citizen,시민,중고
+city,도시,초등
+civil,시민의,중고
+claim,요구하다,중고
+clap,짝짝,중고
+clarify,맑게 하다,중고
+clash,충돌하다,중고
+class,계급,초등
+classic,고전의,중고
+classify,분류하다,중고
+classroom,교실,초등
+clause,조항,중고
+clay,찰흙,중고
+clean,청결한,초등
+clear,맑은,초등
+clerk,서기,초등
+clever,영리한,초등
+client,소송의뢰인,중고
+cliff,절벽,중고
+climate,기후,중고
+climb,기어 오르다,초등
+cling,밀착하다,중고
+clinic,병원,중고
+clip,가위로 자르다,초등
+clock,시계,초등
+close,닫다,초등
+cloth,천,초등
+cloud,구름,초등
+club,클럽,초등
+clue,단서,중고
+cluster,떼,중고
+coach,역마차,중고
+coal,석탄,중고
+coast,연안,중고
+code,법전,중고
+coin,화폐,초등
+coincide,일치하다,중고
+cold,추운,초등
+collaborate,공동으로 일하다,중고
+collapse,붕괴,중고
+collar,칼라,중고
+colleague,동료,중고
+collect,모으다,초등
+college,단과대학,초등
+colony,식민지,중고
+color,착색하다,초등
+column,(신문 등의)난,중고
+combat,격투하다,중고
+combine,결합하다,중고
+come,오다,초등
+comedy,희극,초등
+comfort,위안,중고
+command,명령하다,중고
+commence,시작하다,전문
+comment,논평,중고
+commerce,상업,중고
+commission,위임,중고
+commit,위탁하다,중고
+committee,위원회,중고
+commodity,상품,전문
+communicate,알리다,중고
+communist,공산주의자,중고
+community,공동생활체,중고
+companion,동료,중고
+company,교제,초등
+compare,비교하다,중고
+compatible,양립할 수 있는,전문
+compel,억지로 -시키다,전문
+compensate,배상하다,전문
+compete,경쟁하다,중고
+competent,능력있는,중고
+compile,편찬하다,전문
+complain,불평하다,중고
+complement,보완하는 것,중고
+complete,완성하다,중고
+complex,합성물,중고
+complicate,복잡하게 하다,중고
+component,구성하는 성분,전문
+compose,구성하다,중고
+compound,성분 등을 혼합하다,전문
+comprehensive,이해력있는,중고
+comprise,포함하다,전문
+compromise,타협 타협하다,전문
+compulsory,의무적인,전문
+conceal,숨기다,중고
+conceive,상상하다,전문
+concentrate,집중하다,중고
+concept,개념,중고
+concern,관계하다,중고
+concert,연주회,초등
+conclude,결정하다,중고
+concrete,구체적인 응고물,중고
+condemn,나무라다,전문
+condition,조건,초등
+conduct,행위 이끌다,중고
+confer,주다,전문
+confess,실토하다,중고
+confident,확신하는,중고
+confine,국경,중고
+confirm,확인하다,중고
+conflict,투쟁,중고
+conform,일치시키다,중고
+confront,직면하다,중고
+confuse,혼란시키다,중고
+congratulate,축하하다,초등
+congress,회의,중고
+connect,잇다 이어지다,중고
+conscience,양심,중고
+conscious,의식적인,중고
+consensus,(의견 등의)일치,전문
+consent,승낙하다,전문
+conserve,보존하다,전문
+consider,숙고하다,중고
+consist,-으로 이루어지다,중고
+consistent,시종일관한,중고
+constant,불변의,중고
+constitute,구성하다,전문
+constrain,강제하다,전문
+construct,건조하다,중고
+consult,상의하다,중고
+consume,소비하다,중고
+contact,접촉,중고
+contain,내포하다,중고
+contemporary,현대의,전문
+contend,싸우다,전문
+content,만족하여,중고
+contest,겨루다,초등
+context,문맥,중고
+continent,자제심이 있는,중고
+continue,계속하다,중고
+contract,계약,중고
+contradict,반박하다,전문
+contrary,반대의 반대 거꾸로,중고
+contrast,대조,중고
+contribute,기부하다,중고
+control,억제하다,초등
+controversy,논쟁,중고
+convenient,편리한,중고
+convention,관례,전문
+conversation,회화,중고
+convert,바꾸다,전문
+convey,나르다,중고
+convict,유죄로 판결하다 죄수,중고
+convince,확신시키다,중고
+cook,요리하다 요리사,초등
+cookie,쿠키,초등
+cool,서늘한,초등
+cooperate,협동하다,중고
+coordinate,동격의,전문
+cop,순경,중고
+cope,코우프(성직자의 긴 겉옷),중고
+copy,사본,초등
+copyright,판권,중고
+cord,밧줄,중고
+core,핵심,중고
+corn,티눈,중고
+corner,모퉁이,초등
+corporate,법인조직의,중고
+correct,옳은,중고
+correspond,일치하다,중고
+corridor,복도,전문
+corrupt,타락한,중고
+cost,가격,초등
+costume,복장,중고
+cottage,시골집,중고
+cotton,목화,초등
+couch,침대,중고
+cough,기침 기침을 하다 기침을 하여 -을 뱉어내다,중고
+could,aucan의 과거,초등
+council,회의,중고
+counsel,의논,중고
+count,계산,중고
+counter,계산하는 사람,중고
+counterpart,부본,전문
+country,나라,초등
+countryside,시골,초등
+county,주,전문
+couple,한 쌍,초등
+courage,용기,중고
+cousin,사촌,초등
+cover,덮다,초등
+cow,위협하다 암소,초등
+cowboy,목동,중고
+crack,찰싹 소리내다 금가다 날카로운소리,중고
+craft,솜씨,중고
+crash,도산,중고
+crawl,네발로 기다,중고
+crazy,미친,초등
+create,창조하다,중고
+creature,창조물,중고
+credible,믿을 수 있는,중고
+credit,신용,중고
+creek,시내,전문
+creep,기다,전문
+crew,승무원,중고
+cricket,크리켓,중고
+crime,범죄,중고
+criminal,죄의,중고
+crisis,위기,중고
+crisp,파삭파삭한,중고
+criteria,criterion의 복수형,전문
+critic,비평가,중고
+criticize,비평하다,중고
+criticism,비평,중고
+crop,수확,중고
+cross,십자형,초등
+crowd,군중,초등
+crown,왕관,초등
+crucial,결정적인,중고
+cruel,잔인한,중고
+cruise,순항하다,중고
+crush,눌러 부수다,중고
+cry,소리치다,초등
+crystal,수정,중고
+cultivate,경작하다,중고
+culture,문화,초등
+cupboard,찬장,중고
+cure,치료,중고
+curious,이상스러운,초등
+curl,곱슬머리 머리털을 지지다,중고
+currency,통용,전문
+current,유행의,중고
+curriculum,과목,전문
+curry,카레요리 카레로 맛을 내다,중고
+curse,저주,전문
+curtain,커어튼,초등
+curve,곡선,중고
+custody,보호,전문
+custom,습관,중고
+customer,고객,초등
+cut,베다,초등
+cute,귀여운,초등
+cycle,순환,초등
+cynical,냉소적인,전문
+dad,아빠,초등
+dairy,낙농장,중고
+dam,댐,중고
+damage,손해,중고
+damp,축축한 습기 적시다,중고
+dance,댄스,초등
+danger,위험,초등
+dare,au감히 -하다,중고
+dark,어두운,초등
+darling,귀여운,중고
+dash,돌진,중고
+database,데이터베이스,중고
+date,날짜,초등
+daughter,딸,초등
+dawn,새벽 날이 새다,중고
+day,낮,초등
+dead,죽은,초등
+deal,양,중고
+death,죽음,초등
+debate,토론 토론하다,중고
+debt,빚,중고
+decade,10년간,중고
+decay,쇠퇴하다,중고
+decent,점잖은,전문
+decide,결정하다,초등
+decision,결정,중고
+deck,갑판,중고
+declare,선언하다,중고
+decline,기울다,중고
+decorate,장식하다,중고
+decrease,감소하다,중고
+dedicate,봉납하다,전문
+deep,깊은,초등
+defeat,패배,중고
+defense,방어,중고
+defend,방어하다,중고
+defendant,피고 피고의,중고
+deficiency,결핍,전문
+deficit,결손,전문
+define,정의하다,중고
+definite,일정한,중고
+degrade,지위를 낮추다,전문
+degree,도,중고
+delay,늦추다,중고
+delegate,파견하다,전문
+delete,삭제하다,중고
+deliberate,숙고하다,전문
+delicate,미묘한,중고
+delicious,맛있는,초등
+delight,즐겁게하다 즐거워하다,중고
+deliver,인도하다,중고
+demand,요구하다,중고
+democracy,민주주의,중고
+democrat,민주주의자,중고
+demon,악마,중고
+demonstrate,증명하다,중고
+dense,짙은,중고
+dentist,치과의사,초등
+deny,부정하다,중고
+department,부,중고
+departure,출발,중고
+depend,좌우되다,중고
+dependence,종속,중고
+depict,묘사하다,전문
+deposit,예금,전문
+depress,억압하다,중고
+deprive,빼앗다,전문
+derive,이끌어 내다,중고
+descend,내려오다,중고
+describe,기술하다,중고
+description,서술,중고
+desert,버리다,중고
+deserve, -할 만하다,중고
+design,디자인,초등
+designate,가리키다,전문
+desire,바라다,중고
+desk,책상,초등
+despair,절망하다,중고
+desperate,절망적인,중고
+despite,-에도 불구하고 모욕,중고
+destination,목적지,중고
+destiny,운명,중고
+destroy,파괴하다,중고
+destruction,파괴,중고
+detach,분리하다,중고
+detail,상설,중고
+detect,간파하다,중고
+determine,결정하다,중고
+develop,발달하다,중고
+device,고안,중고
+devil,악마,중고
+devise,고안하다,중고
+devote,바치다,중고
+diabetes,당뇨병,전문
+dialogue,대화,초등
+diary,일기,초등
+dictate,받아쓰게 하다,전문
+dictionary,사전,중고
+die,죽다,초등
+different,다른,초등
+difficult,곤란한,초등
+dig,파다,중고
+dignity,위엄,전문
+dimension,치수,전문
+diminish,감소하다,중고
+dine,저녁식사를 하다,전문
+dinner,정찬,초등
+dip,담그다,중고
+diplomat,외교관,중고
+direct,지도하다,중고
+dirty,더러운,초등
+disabled,불구가 된,중고
+disadvantage,불리,중고
+disagree,일치하지 않다,중고
+disappear,안보이게 되다,중고
+disappoint,실망시키다,중고
+disaster,천재,중고
+discharge,짐을부리다,전문
+discipline,훈련,중고
+disclose,나타내다,중고
+discount,할인,중고
+discourse,강연,전문
+discover,발견하다,중고
+discriminate,분별하다,전문
+discuss,토론하다,초등
+disease,병,중고
+disgust,불쾌하게 하다,중고
+dish,접시,초등
+dismiss,떠나게 하다,중고
+disorder,난잡,중고
+displace,바꾸어놓다,전문
+display,보이다,중고
+dispose,배열하다,중고
+dispute,논쟁하다,전문
+disrupt,분열시키다,전문
+distant,떨어진,중고
+distort,찌그러뜨리다,전문
+distract,전환시키다,중고
+distribute,분배하다,중고
+district,지구,중고
+disturb,교란하다,중고
+dive,뛰어들다,중고
+diverse,다양한,중고
+divide,나누다,초등
+divine,신의,전문
+divorce,이혼,중고
+do,하다,초등
+doctor,박사,초등
+document,서류,중고
+dog,개,초등
+doll,인형,초등
+dolphin,돌고래,초등
+domain,영토,중고
+domestic,가정의,중고
+dominant,우세한,전문
+donate,증여하다,중고
+door,문,초등
+dose,1회복용량 투약하다,전문
+dot,점,중고
+double,2배의,초등
+doubt,의심,중고
+down,아래로,초등
+dozen,1다스,중고
+draft,초고,전문
+drag,끌다,중고
+drain,배수하다,전문
+draw,당기다,초등
+drawer,제도사,중고
+dread,두려워하다 두려움,전문
+dream,꿈,초등
+drink,마시다,초등
+drive,운전하다,초등
+drop,방울,초등
+drown,물에빠뜨리다,중고
+drug,약제,중고
+dry,마른,초등
+dual,둘의,전문
+duck,머리를 물 속에 쑥 쳐박다,초등
+due,지급기일이 된,중고
+dull,둔한,중고
+dump,내버리다,중고
+during,-동안에,초등
+dust,먼지,중고
+duty,의무,중고
+dwell,거주하다,중고
+dynamic,동적인,중고
+each,각각의,중고
+eager,열심인,중고
+ear,귀,초등
+early,이른,초등
+earn,일하여 벌다,중고
+earth,지구,초등
+ease,안락,중고
+east,동쪽 동쪽의 동쪽으로,초등
+easy,쉬운,초등
+eat,먹다,초등
+economy,절약,중고
+edge,끝머리,중고
+edit,편집하다,중고
+educate,교육하다,중고
+effect,결과,중고
+effective,효과적인,중고
+efficient,능률적인,중고
+effort,노력,중고
+egg,알,초등
+either,어느 하나의,중고
+elaborate,공들인,전문
+elect,선거하다,중고
+electric,전기의,중고
+electronic,전자(학)의,중고
+elegant,우아한,중고
+element,요소,중고
+elementary,기본의,초등
+elephant,코끼리,초등
+eliminate,제거하다,중고
+else,그 밖에,중고
+embarrass,난처하게 하다,중고
+embassy,대사관,중고
+embrace,포옹하다,전문
+emerge,나오다,중고
+emergency,비상사태,중고
+emit,방사하다,전문
+emotion,감정,중고
+emphasis,강조,중고
+empire,제국,중고
+employ,고용하다,중고
+empty,빈,중고
+enclose,에워싸다,중고
+encounter,조우,중고
+encourage,용기를 돋우다,중고
+end,끝,초등
+endure,견디다,중고
+enemy,적,중고
+enforce,실시하다,전문
+engage,약속하다,중고
+engine,엔진,초등
+engineer,기사,초등
+enhance,향상하다,중고
+enjoy,즐기다,초등
+enormous,거대한,중고
+enough,충분한,초등
+enroll,명부에 올리다,전문
+ensure,-을 책임지다,중고
+enter,들어가다,초등
+enterprise,기획,중고
+entertain,즐겁게 하다,중고
+enthusiastic,열심인,중고
+entire,전체의,중고
+entitle,자격을 주다,전문
+entry,들어감,중고
+envelope,봉투,중고
+environment,환경,중고
+envy,질투,중고
+episode,삽화,중고
+equal,같은,중고
+equate,같게하다,전문
+equipment,장비,중고
+era,시대,중고
+eraser,지우는 사람,초등
+erect,똑바로 선,전문
+error,잘못,초등
+escape,도망하다,중고
+escort,호위하다,중고
+especially,특히,중고
+essential,본질적인,중고
+establish,확립하다,중고
+estate,토지,전문
+estimate,어림잡다,중고
+etc,등등,중고
+ethical,도덕상의,전문
+ethnic,인종의,전문
+evacuate,비우다,전문
+evaluate,평가하다,중고
+eve,"저녁, 밤",중고
+even,-조차,중고
+evening,저녁,초등
+eventually,결국,중고
+ever,이전에,중고
+every,모든,초등
+evident,명백한,중고
+evil,사악한,중고
+evolution,진화,중고
+evolve,진화하다,중고
+exact,정확한,중고
+exaggerate,과장하다,중고
+exam,시험,초등
+examine,시험하다,중고
+example,보기,초등
+exceed,넘다,중고
+excellent,우수한,중고
+except,-을 제외하고는 제외하다,중고
+excess,초과,중고
+exchange,교환하다,중고
+excite,흥분시키다,중고
+exclude,배척하다,중고
+exclusive,배타적인,전문
+excuse,변명,중고
+executive,집행의,전문
+exercise,운동,초등
+exhaust,다 써버리다,중고
+exhibit,보이다,중고
+exist,존재하다,중고
+exit,출구,초등
+exotic,외국의,중고
+expand,펴다,중고
+expect,기대하다,중고
+expense,지출,중고
+expensive,비용이 드는,중고
+experience,경험,중고
+experiment,실험,중고
+expert,숙련가,중고
+expertise,대가의 의견,전문
+explain,설명하다,중고
+explicit,명백한,전문
+explode,폭발시키다,중고
+explore,탐험하다,중고
+export,수출하다 수출,중고
+expose,"쐬다, 드러내다, 맞히다",중고
+express,발표하다,중고
+extend,뻗다,중고
+extent,넓이,중고
+external,외부의,중고
+extinct,꺼진,중고
+extra,가외의,중고
+extract,뽑아내다,전문
+extraordinary,이상한,전문
+extreme,극단의,중고
+eye,눈,초등
+eyebrow,눈썹,중고
+fabric,천,중고
+face,얼굴,초등
+facilitate,쉽게하다,전문
+facility,쉬움,중고
+fact,사실,초등
+factor,요소,중고
+factory,공장,초등
+faculty,능력,전문
+fade,바래다,중고
+fail,실패하다,초등
+faint,기절하다,중고
+fair,공평한,중고
+faith,신용,중고
+fall,떨어지다,초등
+false,거짓,중고
+fame,명성,중고
+familiar,친한,중고
+family,가족,초등
+famous,유명한,초등
+fan,(영화 등의)팬,초등
+fancy,공상,중고
+fantastic,환상적인,초등
+far,멀리,초등
+fare,요금,중고
+farm,농장,초등
+fascinate,황홀케 하다,중고
+fast,빠른,초등
+fasten,단단히 고정시키다,중고
+fat,살찐,초등
+fatal,치명적인,전문
+fate,숙명,중고
+father,아버지,초등
+fault,결점,중고
+favor,호의,중고
+favorite,마음에 드는 좋아하는 물건,초등
+fear,두려움,중고
+feature,얼굴의 생김새,중고
+federal,연방의,전문
+fee,요금,중고
+feed,음식(먹이)을 주다,중고
+feel,만져보다,초등
+fellow,동무,중고
+female,여성,중고
+ferry,나루터,중고
+fertile,비옥한,전문
+fever,열,초등
+few,소수의,중고
+fiber,섬유,중고
+field,들,초등
+fierce,흉포한,중고
+fight,싸움,초등
+figure,모습,중고
+file,종이끼우개,초등
+fill,가득 채우다,초등
+filter,여과기 여과하다,중고
+final,최후의,중고
+finance,재정,중고
+find,발견하다,초등
+fine,훌륭한,초등
+finger,손가락 손가락을 대다,초등
+finish,끝내다,초등
+finite,한정되어 있는,중고
+fire,불,초등
+firm,굳은,중고
+fish,물고기,초등
+fist,주먹,중고
+fit,맞는,중고
+fix,고정시키다,초등
+flag,기,초등
+flame,불꽃,중고
+flash,번쩍임,중고
+flat,편평한,중고
+flavor,(독특한)맛,중고
+flaw,금,중고
+flee,달아나다,전문
+flesh,살,중고
+flexible,구부리기 쉬운,중고
+flight,날기,중고
+flip,튀기다 홱 움직이다 튀기기,전문
+float,뜨다,중고
+flock,무리,중고
+flood,홍수,중고
+floor,마룻바닥,초등
+flourish,번창하다,중고
+flow,흐르다,중고
+flower,꽃,초등
+fluid,유동성의,전문
+flush,왈칵흐르다,전문
+fly,날다,초등
+focus,초점,초등
+fog,안개,초등
+fold,주름,중고
+folk,사람들,중고
+follow,쫓다,중고
+fond,좋아하는,전문
+food,음식,초등
+fool,바보,초등
+foot,발,초등
+football,축구,초등
+for,대신에,초등
+forbid,금하다,중고
+force,힘,중고
+forecast,예상,중고
+forehead,이마,중고
+foreign,외국의,중고
+forest,숲,초등
+forever,영원히,초등
+forget,잊다,초등
+forgive,용서하다,중고
+form,모양,초등
+formal,형식상의,중고
+format,(서적의)체제,중고
+formation,형성,중고
+former,이전의,중고
+formula,공식,전문
+forth,앞으로,중고
+fortunate,운좋은,중고
+fortune,운,중고
+forum,공개토론회,중고
+forward,앞쪽에,중고
+foster,기르다,전문
+foundation,기초,중고
+fountain,샘,중고
+fox,교활한 사람,초등
+fraction,분수,전문
+frame,구조,중고
+framework,뼈대,중고
+frankly,솔직히,중고
+free,자유로운,초등
+freeze,얼다,중고
+frequent,빈번한,중고
+fresh,새로운,초등
+friend,친구,초등
+fright,(갑자기 엄습하는)공포,중고
+frog,개구리,초등
+from,"(분리,이탈,출발점,기점)-로 부터",초등
+front,정면,초등
+frost,서리,전문
+frown,눈살을 찌푸리다,중고
+fruit,과일,초등
+frustrate,(계획 등을)좌절시키다,중고
+fry,기름으로 튀기다,초등
+fuel,연료,중고
+fulfil,이행하다,중고
+full,가득찬,초등
+fun,즐거운 생각,초등
+function,기능,중고
+fund,기금,중고
+fundamental,기초(기준)의,중고
+funeral,장사,중고
+fur,모피,중고
+furious,노하여 펄펄뛰는,전문
+furnish,공급하다,전문
+furniture,가구,중고
+furthermore,더우기,중고
+fuse,신관,전문
+future,미래,초등
+gain,얻다,중고
+gamble,도박하다 도박 도박해서 잃다,중고
+gang,한 떼,중고
+gap,갈라진 틈,중고
+garage,차고,중고
+garden,뜰,초등
+gasoline,가솔린,전문
+gate,문,초등
+gather,그러모으다,중고
+gaze,지켜보다,전문
+gear,톱니바퀴,중고
+gender,성,중고
+gene,유전(인)자,중고
+general,일반적인,중고
+generate,낳다,전문
+generation,일대,중고
+generous,광대한,중고
+genius,천재,중고
+genre,유형,중고
+gentle,온화한,중고
+gentleman,신사,초등
+genuine,진짜의,중고
+geography,지리,중고
+geology,지질학,중고
+gesture,몸짓,초등
+get,얻다,초등
+ghost,유령,초등
+giant,거인,초등
+gift,선물,초등
+giraffe,기린,초등
+girl,소녀,초등
+give,주다,초등
+glad,기쁜,초등
+glance,흘긋 봄,중고
+glare,번쩍이는 빛,전문
+glass,유리,초등
+glimpse,흘끗 봄,전문
+global,공모양의,중고
+glory,영광,중고
+glove,장갑,초등
+glow,타다,중고
+glue,아교,초등
+go,가다,초등
+goal,결승점,초등
+goat,염소,중고
+god,신,초등
+gold,금,초등
+good,좋은,초등
+goodbye,안녕히 가세요,초등
+goods,상품,중고
+gorgeous,호화로운,중고
+govern,다스리다,중고
+grab,붙잡다(=snatch),중고
+grace,은총,중고
+grade,등급,중고
+gradual,점차적인,중고
+graduate,학위를 수여하다,중고
+grain,곡물,중고
+grand,위대한,중고
+grandfather,할아버지,초등
+grant,받아들이다,중고
+grape,포도,초등
+graphic,그려 놓은 듯한,중고
+grasp,붙잡다,전문
+grass,풀밭,초등
+grateful,고맙게 생각하는,중고
+grave,무덤,중고
+great,커다란,초등
+greed,탐욕,중고
+green,초록색,초등
+greet,인사하다,중고
+grey,회색의,초등
+grief,심한 슬픔(deep sorrow),중고
+grip,잡기,중고
+grocery,식품잡화류,중고
+gross,총계의,전문
+ground,땅,초등
+group,집단,초등
+grow,성장하다,초등
+guarantee,보증하다,중고
+guardian,보호자,전문
+guess,추측(짐작)하다,초등
+guest,손님,중고
+guide,이끌다,초등
+guideline,지침,중고
+guilty,죄지은,중고
+gulf,만,전문
+gun,총,중고
+guy,녀석,초등
+gymnasium,실내체조장,중고
+habit,습관,초등
+habitat,(동물의)자연번식지,전문
+hair,털,초등
+half,반,중고
+hall,회관,중고
+halt,멈춰서다,전문
+hammer,망치,중고
+hand,손,초등
+handicap,불리한 조건,중고
+handle,손잡이,중고
+handsome,얼굴(자태)이 잘생긴,초등
+hang,걸다,초등
+happen,(사건 등이)일어나다,중고
+happy,행운의,초등
+harbor,항구,중고
+hard,단단한,초등
+hardly,거의 -아니다,중고
+harm,해,중고
+harsh,거친,중고
+harvest,수확,중고
+haste,급함,중고
+hat,(테있는)모자 모자를 씌우다,초등
+hate,미워하다,초등
+haunt,자주가다,전문
+have,가지(고 있)다,초등
+hazard,위험,중고
+he,(3인칭단수 남성)그,초등
+head,머리,초등
+headache,두통,초등
+headquarters,본부,전문
+heal,고치다,중고
+health,건강,중고
+hear,듣다,중고
+heart,심장,초등
+heat,열,초등
+heaven,하늘,초등
+heavy,무거운,초등
+heel,발뒤꿈치,중고
+height,높이,중고
+heir,상속인,전문
+helicopter,헬리콥터,초등
+hell,지옥,중고
+hello,여보,초등
+help,돕다,초등
+hence,그러므로,전문
+here,여기에,초등
+heritage,세습 재산,전문
+hero,영웅,초등
+hesitate,주저하다,중고
+hide,감추다,중고
+high,높은,초등
+highway,대도,중고
+hill,"언덕, 낮은 산 인도 고지",초등
+hip,엉덩이,중고
+hire,고용하다,중고
+history,역사,초등
+hit,명중하다,초등
+hobby,취미,초등
+hold,손에 갖고 있다,초등
+hole,구멍,중고
+holiday,휴일,초등
+holy,신성한,중고
+home,가정,초등
+homework,숙제,초등
+honest,정직한,초등
+honey,벌꿀,초등
+honor,명예,중고
+hook,갈고리,전문
+hope,희망,초등
+horizon,지평선,중고
+horn,뿔,전문
+horror,공포,중고
+horse,말,초등
+hospital,병원,초등
+host,"주인, 집주인 노릇, 호스트",중고
+hostage,볼모,전문
+hostile,반대하는,전문
+hot,뜨거운,초등
+hour,시간,초등
+house,집,초등
+household,가족,중고
+how,어떻게,초등
+however,아무리,초등
+hug,꼭 껴안다,중고
+huge,거대한,중고
+human,인간의,초등
+humor,유우머,초등
+hundred,100 100의,초등
+hungry,배고픈,초등
+hunt,사냥하다,초등
+hurry,서두르다,초등
+hurt,상처내다,중고
+husband,남편 절약하다,초등
+hut,오두막,중고
+hypothesis,가설,전문
+I,"나는, 내가",초등
+ice,얼음,초등
+idea,관념,초등
+ideal,이상,중고
+identical,아주 동일한,중고
+identify,동일시하다,중고
+ideology,공리,전문
+if,만일 -이라면,초등
+ignore,무시하다,중고
+ill,병든,중고
+illusion,환영,전문
+illustrate,설명하다,중고
+imagine,상상하다,중고
+imitate,흉내내다,중고
+immediate,직접의,중고
+immense,무한한,전문
+immigrate,이주하다,전문
+immune,면역성의,중고
+impact,충격,중고
+imperial,제국의,중고
+implement,기구,전문
+imply,함축하다,전문
+import,수입하다,중고
+important,중요한,초등
+impose,부과하다,전문
+impress,인상지우다,중고
+improve,개선하다,중고
+in,-속에,초등
+incentive,자극적인,중고
+incident,사건,중고
+incline,기울이다,전문
+include,포함하다,중고
+income,수입,중고
+incorporate,합동시키다,전문
+increase,늘다,중고
+incredible,믿을 수 없는,중고
+indeed,참으로,중고
+independent,독립한,중고
+index,색인,전문
+indicate,지적하다,중고
+individual,개인,중고
+induce,꾀다,전문
+industry,공업,중고
+inevitable,피할 수 없는,전문
+infant,유아,중고
+infect,감염시키다,전문
+infer,추론하다,전문
+inflate,부풀게 하다,전문
+influence,영향력,중고
+inform,알리다,중고
+informal,비공식의,중고
+ingredient,성분,중고
+inhabit,살다,중고
+inherent,생태의,전문
+inhibit,금하다,전문
+initial,처음의,중고
+initiate,시작하다,중고
+inject,주사하다,중고
+injure,해치다,중고
+inn,여인숙,중고
+innocent,무구한,중고
+innovate,새롭게 하다,중고
+input,투입,중고
+inquire,묻다,전문
+insect,곤충,중고
+insert,끼워넣다,중고
+inside,안쪽,초등
+insight,통찰(력),중고
+insist,주장하다,중고
+inspect,검사하다,중고
+inspire,영감을 주다,중고
+install,설치하다,중고
+instance,실례,중고
+instant,즉시의,중고
+instead,그 대신에,중고
+instinct,본능,중고
+institute,만들다,중고
+instruct,가르치다,중고
+instrument,기구,중고
+insult,모욕하다,중고
+insure,보증하다,중고
+integrate,통합하다,전문
+intellectual,지적인,중고
+intelligent,지적인,중고
+intend,-할 작정이다,중고
+intense,강렬한,중고
+intent,의향,중고
+interact,서로 작용하다,중고
+interest,흥미,중고
+interfere,간섭하다,중고
+intermediate,중간의 중간물,중고
+internal,내부의,중고
+international,국제적인,중고
+interpret,해석하다,중고
+interrupt,훼방놓다,중고
+interval,간격,중고
+intervene,사이에 들다,전문
+intimate,친밀한,중고
+into,-안으로,초등
+intrigue,음모,전문
+introduce,안으로 들이다,초등
+invade,침입하다,중고
+invent,발명하다,중고
+invest,투자하다,중고
+investigate,조사하다,중고
+invite,초대하다,초등
+involve,말아넣다,중고
+iron,쇠,중고
+irony,반어,중고
+irritate,노하게 하다,중고
+island,섬,중고
+isolate,고립시키다,중고
+it,그것은,초등
+item,조항,중고
+jail,교도소,중고
+jar,(아가리가 넓은)항아리,중고
+jaw,턱,중고
+jeans,청바지,초등
+jet,(가스등의)분출,중고
+job,일,초등
+jog,살짝 밀다 덜커덕 움직이다 고르지 않음,중고
+join,결합하다,초등
+joint,이음매,중고
+joke,농담,중고
+journal,일간신문,중고
+journey,여행,중고
+joy,즐거움,초등
+judge,재판관,중고
+judicial,사법의,전문
+junior,손아래사람,중고
+jury,배심,중고
+just,올바른,초등
+justice,정의,중고
+justify,옳다고 하다,중고
+keen,날카로운,전문
+keep,계속하다,초등
+key,열쇠,초등
+kick,걷어차다,초등
+kid,아이,초등
+kill,죽이다,초등
+kind,친절한,초등
+king,왕,초등
+kit,연장통,중고
+kitchen,부엌,초등
+knee,무릎,중고
+knife,나이프,초등
+knight,(중세의)기사,중고
+knock,치다,중고
+knot,매듭(=tie),전문
+know,알다,초등
+label,라벨,중고
+labor,노동,중고
+laboratory,실험실,중고
+lack,결핍,중고
+ladder,사닥다리,중고
+lady,귀부인,초등
+lake,호수,초등
+lamb,어린 양,중고
+lamp,등,중고
+land,뭍,초등
+landscape,풍경,중고
+lane,좁은길,중고
+language,언어,중고
+lap,무릎,중고
+large,큰,초등
+last,계속하다,초등
+late,늦은,초등
+latter,뒤쪽의,중고
+laugh,(소리내어)웃다,중고
+launch,진수시키다,중고
+laundry,세탁물,중고
+law,법률,중고
+lawn,잔디밭,중고
+lawyer,법률가,중고
+lay,눕히다,중고
+layer,층,중고
+lazy,게으른,초등
+lead,이끌다,중고
+leaf,잎,초등
+leak,샘,중고
+lean,기대다,중고
+leap,껑충 뛰다,중고
+learn,배우다,초등
+lease,임대차,전문
+leather,무두질한 가죽,중고
+leave,남기고가다,중고
+lecture,강의,중고
+left,왼쪽의,초등
+leg,다리,초등
+legal,법률상의,중고
+legend,전설,중고
+legislate,법률을 제정하다,전문
+legitimate,합법의,전문
+leisure,틈,중고
+lend,빌리다,중고
+lesson,학과,초등
+let,시키다,중고
+letter,편지,초등
+level,수평의,중고
+liberal,자유주의의,중고
+liberty,자유,중고
+library,도서관,초등
+license,면허,중고
+lid,뚜껑,중고
+lie,눕다,초등
+lift,끌어올리다,중고
+light,빛,초등
+like,좋아하다,초등
+likely,있을 법한,중고
+likewise,"같이, 마찬가지로",중고
+limit,한계,중고
+line,선,초등
+linguistic,말의,중고
+link,사슬의 고리,중고
+lion,사자,초등
+lip,입술,초등
+liquid,액체,중고
+list,일람표,중고
+listen,경청하다,초등
+literal,문자의,전문
+literature,문학,중고
+little,작은,초등
+live,살다,초등
+livingroom,거실,초등
+load,짐,중고
+loan,대부,중고
+local,장소의,중고
+locate,관청 등을 두다,중고
+lock,자물쇠,중고
+log,통나무,중고
+logic,논리학,중고
+lone,혼자의,전문
+long,"(길이,시간 등)긴",초등
+look,보다,초등
+loose,풀어진,중고
+lose,잃다,중고
+loss,잃음,중고
+lot,제비,중고
+loud,시끄러운,중고
+lounge,빈둥거리다,중고
+love,사랑,초등
+low,낮은,초등
+loyal,충성스러운,중고
+luck,운,초등
+lump,덩어리,전문
+lunch,점심,초등
+luxury,사치,중고
+machine,기계,중고
+mad,미친,초등
+magazine,잡지,중고
+magnet,자석,중고
+magnificent,장대한,전문
+mail,우편물,초등
+main,주요한,중고
+maintain,계속하다,중고
+major,큰쪽의,중고
+majority,대다수,중고
+make,만들다,초등
+male,남성의,중고
+man,남자,초등
+manage,관리하다,중고
+manifest,명백히 하다,전문
+manipulate,(손으로)다루다,전문
+manner,방법,중고
+manufacture,제조하다,중고
+many,많은,초등
+map,지도,초등
+margin,가장자리,중고
+marine,바다의,중고
+mark,표,중고
+marry,결혼하다,초등
+marvel,경이,중고
+mass,덩어리,중고
+master,장,중고
+match,성냥,중고
+mate,상대,중고
+material,원료,중고
+mathematics,수학,초등
+matter,물질,중고
+mature,익은,중고
+maximum,최고점,중고
+may,"5월  청춘, 인생의 봄  산사나무, 아가위나무",초등
+maybe,아마,중고
+mayor,시장,중고
+meal,식사,중고
+mean,의미하다,중고
+meantime,그동안 그 사이에,중고
+meanwhile,그동안,전문
+measure,재다,중고
+meat,(식용짐승의)고기,초등
+mechanic,직공,중고
+mechanism,(기계)장치,중고
+mediate,중재하다,중고
+medical,의학의,중고
+medicine,약,중고
+medieval,중세(풍)의,전문
+medium,중간,중고
+meet,-을 만나다,초등
+melt,녹다,중고
+memory,기억,초등
+mental,마음의,중고
+mention,말하다,중고
+merchant,상인,중고
+mere,단순한,전문
+merge,합병하다,전문
+merit,장점,중고
+mess,혼란,중고
+metal,금속,중고
+method,방법,중고
+metropolitan,수도권(의),전문
+microphone,확성기,중고
+microwave,극초단파 전자레인지로 요리하다,중고
+middle,한복판의,초등
+might,힘,초등
+migrate,이주하다,전문
+mild,온후한,중고
+military,군의,중고
+milk,젖,초등
+mill,멧돌,중고
+million,백만,중고
+mind,마음,초등
+miner,광산업자,중고
+mineral,광물,중고
+minimal,최소(한도)의,중고
+minimum,최소 한도,중고
+ministry,장관(목사)의 직(소임),중고
+minor,작은 편의,중고
+minute,분,중고
+miracle,기적,중고
+mirror,거울,초등
+miss,미혼 여성 실수하다,초등
+missile,미사일,중고
+mission,사명,중고
+mistake,틀리다,중고
+mix,섞다,중고
+mobile,움직이기 쉬운,중고
+mock,조롱하다,전문
+mode,방법,중고
+moderate,절제하는,전문
+modern,현대의,중고
+modest,겸손한,전문
+modify,변경하다,전문
+moisture,습기,중고
+molecule,분자,전문
+moment,순간,중고
+money,금전,초등
+monitor,충고자,중고
+monkey,원숭이,초등
+monster,괴물,중고
+month,월,초등
+monument,기념비,전문
+mood,(일시적인)기분,중고
+moon,달,초등
+moral,도덕의,중고
+moreover,그 위에,중고
+morning,아침,초등
+mortal,죽을운명의,전문
+mother,어머니,초등
+motion,운동,중고
+motive,동기,중고
+mount,산,중고
+mountain,산,초등
+mouse,새앙쥐,초등
+mouth,입,초등
+move,움직이다,초등
+movie,영화,초등
+much,많은,초등
+mud,진흙,중고
+multiple,복합의,중고
+multiply,늘리다,중고
+murder,살인,중고
+muscle,근육,중고
+museum,박물관,초등
+mushroom,버섯,중고
+music,음악,초등
+must,-해야 한다,초등
+mutual,상호의,전문
+myth,신화,중고
+nail,손톱,중고
+naive,소박한,전문
+naked,발가벗은,중고
+name,이름,초등
+nanny,유모,전문
+narrate,이야기하다,중고
+narrow,좁은,중고
+nasty,불쾌한,전문
+nation,국가,초등
+native,타고난,중고
+nature,자연,초등
+navy,해군(력),중고
+near,가까이 -의 가까이에 가까운 접근하다,초등
+neat,산뜻한,중고
+necessary,필요한,중고
+neck,목,초등
+need,필요,초등
+needle,바늘 바늘로 꿰매다 바느질하다 아슬아슬한,중고
+negative,부정적인,중고
+neglect,게을리 하다,중고
+negotiate,교섭하다,중고
+neighbor,이웃사람(나라),중고
+neither,(둘중)어느쪽도 -아니다 -도 아니다,중고
+nephew,조카,중고
+nervous,신경의,중고
+nest,보금자리,중고
+net,그물,중고
+network,그물세공,중고
+neutral,중립의,중고
+never,결코 -아니다,초등
+nevertheless,그럼에도 불구하고,중고
+new,새로운,초등
+newspaper,신문,초등
+next,다음의,초등
+nice,니스(프랑스 남부의 항구도시),초등
+night,밤,초등
+nightmare,악몽,중고
+no,무의,초등
+noble,고귀한,중고
+nobody,아무도 -않다 하찮은 사람,중고
+nod,끄덕이다,중고
+noise,소리,중고
+nominate,추천하다,전문
+none,아무도(조금도)-않다 조금도(결코)-않다,중고
+nonetheless,역시,전문
+nonsense,허튼 소리,중고
+noon,정오,초등
+nor,-도 또한-않다,중고
+norm,표준,전문
+normal,표준(의),중고
+north,"북, 북 쪽, 북부",초등
+nose,코,초등
+not,아니다,초등
+note,기록,초등
+nothing,아무것도 …없다,초등
+notice,"통지, 통보",중고
+notion,"n,관념",전문
+novel,소설,중고
+now,지금,초등
+nowadays,"오늘날에는, 요즈음에는",중고
+nowhere,아무데도 …없다,중고
+nuclear,"핵의, 핵을 형성하는 원자핵의",중고
+number,수,초등
+numerous,"다 수의, 수많은, 셀 수 없이 많은",전문
+nun,수녀 집비둘기의 일종,전문
+nurse,유모,초등
+nut,견과,중고
+oak,참나무,중고
+obey,따르다,중고
+object,사물,중고
+objective,객관적인,중고
+oblige,(의무를)별수없이 -하게하다,전문
+observe,관찰하다,중고
+obsess,늘러붙다,전문
+obtain,얻다,중고
+obvious,명백한,중고
+occasion,경우,중고
+occupation,일직업,중고
+occupy,차지하다,중고
+occur,일어나다,중고
+ocean,대양,초등
+odd,묘한,중고
+of,출신의,초등
+off,떨어져,초등
+offend,성나게 하다,중고
+offer,권하다,중고
+office,임무,초등
+officer,공무원,중고
+official,공무원,중고
+often,자주,초등
+oil,기름,초등
+old,늙은,초등
+olive,올리브나무,중고
+on,위에,초등
+once,한번,중고
+one,하나(의),초등
+only,유일한,초등
+open,열다,초등
+operate,움직이다,중고
+opinion,의견,중고
+opportunity,기회,중고
+oppose,반대하다,중고
+optimist,낙천가,중고
+option,선택(권의 자유),중고
+or,혹은,초등
+oral,구두의,중고
+orbit,궤도,전문
+orchestra,관현악단,중고
+order,순서,중고
+ordinary,보통의,중고
+organ,(생물의)기관,중고
+organic,유기체의,중고
+organize,조직하다,중고
+orient,동양 동양의 동쪽으로 향하게 하다,중고
+origin,기원,중고
+other,다른 다른 것 그렇지 않고,중고
+otherwise,딴 방법으로는,중고
+ought,au해야만 하다,중고
+ounce,삵괭이,전문
+out,밖으로,초등
+outcome,결과,중고
+outline,윤곽,중고
+output,산출,중고
+outrage,불법(적인 행위),전문
+outstanding,눈에 띄는,중고
+over,위쪽,초등
+overall,포괄(전면)적인 덧옷,중고
+overcome,이기다,중고
+overhead,머리위에 머리 위의,중고
+overlap,겹치다,중고
+overlook,내려다 보다,중고
+overnight,전날밤의,중고
+oversea,해외(로부터)의,중고
+overwhelm,압도하다,전문
+owe,지불할 의무가 있다,중고
+own,자기자신의 소유하다,중고
+pace,한걸음,중고
+pack,꾸러미,중고
+packet,다발,중고
+pad,(및에)덧대는 것,중고
+pain,고통,중고
+paint,도료,초등
+pair,한쌍,중고
+palace,궁전,초등
+pale,창백한,중고
+palm,손바닥,중고
+pan,남비 사금 등을 남비로 가려내다,중고
+panel,판벽널,전문
+panic,돌연한공포,중고
+pants,바지,초등
+paper,종이,초등
+paragraph,(문장의)절,중고
+parallel,평행의,전문
+pardon,용서하다 용서,중고
+parent,어버이,초등
+park,공원,초등
+parliament,의회,전문
+part,부분,초등
+participate,참가하다,중고
+particle,입자,전문
+particular,특수한,중고
+pass,지나가다,초등
+passage,"통행, 통과",중고
+passenger,승객,중고
+passion,정열,중고
+passport,여권,중고
+past,과거,중고
+pat,톡톡 가볍게 치다,전문
+patch,깁는 헝겊,전문
+patent,전매특허권 전매특허의,전문
+path,작은 길,중고
+patient,인내심이 강한 환자,중고
+patrol,순회,전문
+pattern,모범,중고
+pause,중지,중고
+pave,(도로를)포장하다,전문
+pay,지불하다,초등
+peace,평화,초등
+peak,(뾰족한)끝,중고
+pear,서양배,초등
+peasant,농부,전문
+peel,껍질을 벗기다 벗어지다 껍질,중고
+peer,동료,중고
+penalty,벌,중고
+pencil,연필 연필로 쓰다,초등
+people,사람들,초등
+pepper,고추,중고
+per,-에 의하여,중고
+perceive,지각하다,중고
+perfect,완전한,중고
+perform,다하다,중고
+perhaps,아마,중고
+period,시간,중고
+permanent,영구의,중고
+permit,허가하다,중고
+persist,고집하다,전문
+person,사람,중고
+personality,개성,중고
+perspective,원근법의 원근 화법,전문
+persuade,설득하다,중고
+pet,애완동물,중고
+phase,국면,전문
+phenomenon,현상,중고
+philosophy,철학,중고
+photograph,사진 촬영하다,중고
+phrase,구,중고
+physical,물질의,중고
+physics,물리학,중고
+pick,따다,초등
+picnic,소풍,초등
+picture,그림,초등
+piece,한 조각,중고
+pig,돼지,초등
+pile,쌓아 올린 것,중고
+pill,알약,중고
+pin,핀 핀으로 꽂다,중고
+pinch,꼬집다,전문
+pine,소나무 수척해 지다,중고
+pink,연분홍색,초등
+pioneer,개척자,중고
+pitch,던지다,전문
+pity,불쌍히 여김,중고
+place,장소,초등
+plain,분명한,중고
+plan,계획,초등
+planet,행성,중고
+plant,실물,중고
+plate,판,중고
+platform,단,중고
+play,놀다,초등
+pleasant,기분 좋은,중고
+please,기쁘게 하다,초등
+pleasure,즐거움,중고
+plenty,많음,중고
+plot,음모,중고
+plus,더하기의 -외에,중고
+P.M.,오후,초등
+pocket,포켓,초등
+poem,시,중고
+poet,시인,중고
+point,점,초등
+poison,독,중고
+polar,남극의,중고
+pole,폴란드사람,중고
+police,경찰 경비하다,초등
+policy,정책,중고
+polish,"닦다, 갈다, 윤내다",전문
+polite,공손한,중고
+politics,정치,중고
+poll,투표,중고
+pollute,-을 더럽히다,중고
+pond,"못, 연못",중고
+pool,판돈,중고
+poor,"가난한 부족한, 불충분한, 빈약한",초등
+pop,팝,중고
+pope,로마 교황  최고 권위자로 자처하는 사람,전문
+popular,"민중 의, 대중의",중고
+population,인구,중고
+pork,돼지고기,중고
+port,"항구, 항만, 상항",중고
+portion,"일부, 부분",전문
+portrait,초상,중고
+pose,"자세, 포즈  마음가짐  꾸민 태도",중고
+position,위치,중고
+positive,"명확한, 의문의 여지가 없는, 부정할 수 없는",중고
+possess,소유하다,중고
+possible,가능한,중고
+post,기둥,중고
+poster,포스터,중고
+pot,단지,중고
+potato,감자,초등
+potential,가능한,중고
+pour,따르다,중고
+powder,가루,중고
+power,힘,초등
+practical,실제의,중고
+practice,연습,중고
+praise,칭찬,중고
+pray,빌다,중고
+preach,설교하다,전문
+precede,-에 앞서다,전문
+precious,비싼,중고
+precise,정확한,중고
+predator,약탈자,전문
+predict,"예언하다, 예보하다 예언하다",중고
+prefer,"오히려 …을 좋아하다,",중고
+pregnant,임신한 충만한,중고
+prejudice,"편견, 선입관",전문
+premier,"국무 총리, 수상",전문
+premium,"할증금,  액면 초과액, 프리미엄",전문
+prepare,"준비하 다, 마련하다, 채비를 갖추다",중고
+prescribe,"명령하다, 지령하다",중고
+presence,"존재, 현존, 실재  출석, 임석, 참석",중고
+present,"있는, 존재하는",초등
+preserve,"보호하다, 지키다",중고
+president,대통령 회장,중고
+press,강제로 모집하다,중고
+presume,가정하다,전문
+pretend,핑계삼다,중고
+pretty,"예쁜, 귀여운, 참 한, 조촐한",초등
+prevail,"이기다, 극복하다, 압도하다 우세하다, 보급되다",전문
+prevent,"막다, 방해하다",중고
+previous,"앞의, 이전의",중고
+prey,먹이,중고
+price,"값, 가격, 대가, 정가",중고
+pride,자존심,중고
+priest,성직자,중고
+primary,"첫째의, 제1위의, 수위의 초등의, 초보의",중고
+prime,"수위의, 최초의, 원시적인",중고
+primitive,"원시의, 초기의",중고
+prince,"왕자, 태자, 세자, 대군",초등
+principal,"주요한, 주된, 제일의, 앞장서는",중고
+principle,"원리, 원칙, 법칙, 공리",중고
+print,"인쇄하다, 프린트하다",초등
+prior,"이전의, 앞의",전문
+prison,교도소,중고
+privacy,"남의 눈을 피함, 은거, 은둔, 은퇴 생활 사생활",중고
+private,"사적인, 사사로운, 개인에 속한",중고
+privilege,"특권, 특전, 특별 취급",전문
+prize,"상, 포상, 우등상, 선행상",초등
+probably,"아마, 십중팔구",중고
+problem,문제,초등
+procedure,"진행, 경과 절차",전문
+proceed,"나아가다, 가다",중고
+process,"진행, 작용",중고
+produce,"생산하다, 산출하다, 생기게 하다,",중고
+profession,"직업 공언, 선언, 고백",중고
+professor,교수,중고
+profile,"옆 얼굴, 반면상 인물 소개  태도, 자세",전문
+profit,"이익, 이득, 벌이",중고
+profound,"깊은, 심원한",전문
+progress,"진행, 전진, 진척  진보, 향상, 발달, 발전",중고
+prohibit,"금하다, 금지하다",전문
+prominent,"두드러진, 돌기한, 양각된 현저한, 탁월한, 중요한",전문
+promise,"약속, 서약, 계약",중고
+promote,"승진시키다 진행시키다,",중고
+prompt,"재빠른, 신속한, 즉시 …하는",전문
+pronounce,"발음하다, 음독하다",중고
+proof,증명,중고
+proper,"고유의, 독특한, 본연의,  특유한",중고
+property,"재산, 자산",중고
+proportion,"비율, 비 균형, 조화",전문
+propose,"제의하다, 제출하다 추천하다, 지명하다",중고
+prospect,"전망, 조망, 경치",중고
+prosper,번영하다,전문
+protect,"보호하다, 막다, 지키다, 비호하다",중고
+protein,IG1s,중고
+protest,단언하다,중고
+proud,"뽐내는, 자랑하는 자긍하는, 영광 으로 여기는",중고
+prove,"시험하다, 실험하다, 경험하다, 시험해 보다",중고
+provide,"준비하다, 미리 …에 대비하다  규정하다",중고
+province,"주, 성, 도  범위, 영역, 분야",중고
+provoke,화나게 하다,전문
+psychology,심리학,중고
+pub,펍,중고
+public,"심리, 심리 상태",중고
+publish,"발표 하다, 널리 알리다",중고
+pull,"끌다, 당기다, 끌어 당기다, 잡아 끌다",중고
+pump,펌프스   댄스용 구두,중고
+punch,"주먹질, 펀치  힘, 활기",중고
+punish,"벌하다, 응징하다, 처형하다",중고
+pupil,흔히 국민학교 중학교 학생,중고
+puppy,강아지,초등
+purchase,"사다, 구입하다",중고
+pure,"순수한  깨끗한, 순전한, 결백한",중고
+purple,자줏빛의  새빨간  제왕의,중고
+purpose,목적,중고
+pursue,"쫓다, 추적하다, 몰다",중고
+push,"밀다, 밀치다, 밀어서 움직 이다, 밀어 내다",초등
+put,"놓다, 두다",초등
+puzzle,"당황, 혼란 괴롭히는 사람,  어려운 문제",초등
+qualify,자격을 부여하다,중고
+quality,질,중고
+quantity,양,중고
+quarter,1,중고
+queen,여왕,초등
+question,"물음, 질문, 질의",초등
+questionnaire,질문표,전문
+quick,빠른,초등
+quiet,조용한,초등
+quit,"(의무,책임을)벗어난 떠나다",중고
+quite,아주,중고
+quote,인용하다,전문
+rabbit,집토끼,초등
+race,인종,초등
+racial,인종(상)의,중고
+rage,격노,전문
+rail,가로장,중고
+rain,비,초등
+rainbow,무지개,초등
+raise,올리다,중고
+rally,규합하다,전문
+random,닥치는 대로의,중고
+range,줄,중고
+rank,열,중고
+rapid,빠른,중고
+rare,희귀한,중고
+rat,쥐,중고
+rate,율,중고
+rather,오히려,중고
+rational,합리적인,전문
+raw,날것의,중고
+reach,도착하다,중고
+react,반응을 나타내다,중고
+read,읽다,초등
+ready,준비가 된,초등
+real,실재하는,중고
+realize,깨닫다,중고
+rear,뒤,전문
+reason,이성,중고
+rebel,반역자,전문
+recall,되부르다,중고
+receipt,수령,중고
+receive,받다,중고
+recent,최근의,중고
+reception,받음,중고
+recipe,조리법,중고
+recognize,인정하다,중고
+recommend,추천하다,중고
+record,기록하다,중고
+recover,되찾다,중고
+recruit,신병,전문
+recycle,재생 이용하다,중고
+red,붉은,초등
+reduce,줄이다,중고
+refer,조회시키다,중고
+refine,정제정련하다,전문
+reflect,반사하다,중고
+reform,개정(개혁)하다,중고
+refrigerator,냉장고,중고
+refuse,거절하다,중고
+regard,주목해서 보다,중고
+region,지방,중고
+register,기록,중고
+regret,유감,중고
+regular,규칙적인,중고
+regulate,규정하다,전문
+reinforce,보강하다,전문
+reject,거절하다,중고
+relate,이야기하다,중고
+relative,친척,중고
+relax,늦추다,중고
+release,도와주다,중고
+relevant,관련된,전문
+relieve,구출하다,중고
+religion,종교,중고
+reluctant,마음이 내키지 않는,전문
+rely,믿다,중고
+remain,남다,중고
+remark,깨닫다,중고
+remedy,치료,중고
+remember,기억하고 있다,초등
+remind,생각나게 하다,중고
+remote,먼,중고
+remove,옮기다,중고
+rent,지대,중고
+repair,수선(수정)하다,중고
+repeat,반복하다,중고
+replace,되돌려 놓다,중고
+reply,대답하다,중고
+report,보고,중고
+represent,표현(묘사)하다,중고
+republic,공화국,중고
+reputation,평판,전문
+request,부탁하다,중고
+require,요구하다,중고
+rescue,구하다,중고
+research,연구,중고
+resemble,닮다,중고
+reserve,따로 두다,중고
+reside,거주하다,전문
+resign,사임하다,전문
+resist,저항하다,중고
+resolve,분해하다,중고
+resort,(자주)가다,중고
+resource,자원,중고
+respect,존경하다,중고
+respective,각각의,전문
+respond,대답하다,중고
+responsible,책임을 져야할,중고
+rest,휴식,중고
+restaurant,요리점,초등
+restore,반환하다,중고
+restrain,제지하다,전문
+restrict,제한하다,전문
+restroom,화장실,초등
+result,결과,중고
+resume,다시 잡다,전문
+retail,소매,전문
+retain,보유하다,전문
+retire,퇴직하다,중고
+retreat,후퇴,전문
+return,돌아가다,초등
+reveal,나타내다,중고
+revenge,복수,전문
+reverse,역,전문
+review,재조사,중고
+revise,교정하다,중고
+revive,소생하다,중고
+revolution,혁명,중고
+reward,보수,중고
+rhythm,율동,중고
+rice,쌀,중고
+rich,부자인,초등
+rid,면하게하다,전문
+ride,타다,중고
+ridiculous,어리석은,전문
+right,올바른,초등
+ring,고리,초등
+riot,"폭동, 소요, 소동   야단법석, 다채로움,",전문
+rise,올리다,중고
+risk,위험 걸다,중고
+rival,경쟁자 경쟁하는 경쟁하다,중고
+river,강,초등
+road,길,초등
+roar,으르렁거리다 으르렁소리,전문
+roast,불에 쬐어 굽다 불고기 구운,중고
+rob,"강탈하다, 약탈하다, 빼앗다",중고
+rock,바위,초등
+rod,막대,전문
+role,(배우의)역,중고
+roll,구르다,중고
+romantic,전기소설적인,중고
+roof,지붕,초등
+room,방,초등
+root,뿌리,중고
+rope,새끼,중고
+rot,썩다,전문
+rough,거친,중고
+round,둥근 원 돌아서,중고
+route,길,중고
+routine,정해진 일,중고
+row,줄,중고
+royal,왕의,중고
+rub,마찰하다,중고
+rubber,맛사지사,중고
+rude,버릇없는,중고
+ruin,파멸,중고
+rule,규칙,중고
+rumor,소문,중고
+run,달리다,초등
+rural,시골의,중고
+rush,돌진하다,중고
+sack,마대,전문
+sacred,신성한,중고
+sacrifice,희생,중고
+sad,슬픈,초등
+safe,안전한,초등
+sail,돛,중고
+salary,봉급 봉급을 주다,중고
+sale,판매,초등
+salon,객실,전문
+salt,소금,초등
+same,같은,초등
+sand,모래사장,초등
+satellite,위성,중고
+satisfy,만족시키다,중고
+save,위험에서 구하다,초등
+say,말하다,초등
+scale,비늘(모양의 것),중고
+scan,시의 운율을살피다,중고
+scandal,추문,중고
+scarce,부족한,전문
+scare,위협하다,중고
+scatter,뿔뿔이 흩어 버리다,전문
+scene,장면,중고
+scheme,계획,중고
+scholar,학자,중고
+school,학교,초등
+science,과학,초등
+scissors,가위,초등
+scold,꾸짖다 잔소리 심한 사람,중고
+scope,범위,전문
+score,득점,초등
+scramble,기다,중고
+scratch,"할퀴다, 할퀴어 상처 를 내다  긁다",중고
+scream,비명을 지르다,중고
+screen,병풍,중고
+screw,나사,전문
+scrub,(관목의)숲,전문
+sculpture,조각 조각하다,전문
+sea,바다,초등
+seal,인장,중고
+search,찾다,중고
+season,계절,초등
+seat,좌석,중고
+secret,비밀의,중고
+secretary,비서,중고
+sector,부채꼴,중고
+secure,안전한,중고
+see,보다,초등
+seed,씨앗,중고
+seek,찾다,중고
+seem,-으로 보이다,중고
+seize,붙잡다,전문
+select,고르다,중고
+self,자기,중고
+sell,팔다,초등
+send,보내다,초등
+senior,연상의,중고
+sensation,감각,중고
+sense,감각,중고
+sensible,분별있는,중고
+sentence,문장,중고
+sentiment,정서,전문
+separate,분리된,중고
+sequence,연속,전문
+series,연속,중고
+serious,진지한,중고
+serve,섬기다,중고
+session,개회,중고
+settle,등받이가 높은 긴 의자 놓다,중고
+several,수개의,중고
+severe,호된,중고
+sew,꿰매다,중고
+sex,성,중고
+shade,그늘,중고
+shadow,그림자,중고
+shake,흔들어 움직이다,중고
+shall,au-하겠다,중고
+shallow,얕은 얕은 곳 얕아지다,중고
+shame,부끄럼,중고
+shape,모양,중고
+share,몫,중고
+sharp,날카로운,중고
+shave,깎다,중고
+she,그녀는,초등
+sheep,양,중고
+sheet,깔천,중고
+shelf,선반,중고
+shell,겉껍질,중고
+shelter,피난처,전문
+shield,방패,전문
+shift,옮기다,중고
+shine,빛나다,중고
+ship,배,초등
+shock,격돌,초등
+shoe,구두,초등
+shoot,쏘다,중고
+shop,상점,초등
+shore,물가,중고
+short,짧은,초등
+should,aushall의 과거,초등
+shoulder,어깨,중고
+shout,외치다,중고
+show,보이다,초등
+shower,소나기 빗발치듯 퍼붓다(쏟다),중고
+shrink,줄어들다,전문
+shut,닫다,중고
+shy,수줍은,초등
+sick,병난,초등
+side,쪽,초등
+sigh,한숨,중고
+sight,광경,중고
+sign,부호,중고
+significant,중요한,중고
+silent,조용한,중고
+silk,비단,중고
+silly,어리석은 바보,중고
+silver,은,중고
+similar,유사한,중고
+simple,단일의,중고
+simulate,흉내내다,전문
+simultaneous,동시에 일어나는(존재하는),전문
+sin,사인,중고
+since,-이래,중고
+sing,노래하다,초등
+single,단 하나의,중고
+sink,가라앉다,중고
+sister,여자형제,초등
+sit,앉다,초등
+site,부지,중고
+situation,장소,중고
+size,크기,초등
+skill,숙련,중고
+skin,피부,초등
+skip,도약,중고
+skirt,스커어트,초등
+sky,하늘,초등
+slaughter,도살,전문
+slave,노예 노예처럼 일하다,중고
+sleep,잠자다,초등
+slice,얇은조각,중고
+slide,미끄러지다,중고
+slight,약간의,전문
+slim,호리호리한,중고
+slip,(때가)어느덧 지나가다,중고
+slope,비탈,전문
+slow,느린,초등
+small,작은 작은 부분 적게,초등
+smart,재치있는,초등
+smash,박살내다,중고
+smell,냄새,초등
+smile,미소짓다 미소,초등
+smoke,연기,중고
+smooth,매끄러운,중고
+snake,뱀,중고
+snap,덥석 물다,중고
+sneak,몰래 움직이다,전문
+sniff,코를 킁킁거리다,전문
+snow,눈 눈이 내리다,초등
+so,그와 같이,초등
+soak,담그다,중고
+soap,비누 비누로 씻다,중고
+soccer,축구,초등
+social,사회의,중고
+society,사회,중고
+sociology,사회학,중고
+sock,짧은 양말,초등
+soft,부드러운,초등
+software,소프트웨어,중고
+soil,흙,중고
+soldier,군인,중고
+sole,유일한 발바닥,전문
+solid,고체의,중고
+solo,독주,중고
+solve,해결하다,중고
+some,얼만가의,초등
+somewhat,약간,중고
+son,아들,초등
+song,노래,초등
+soon,얼마 안 가서,중고
+sophisticated,물정에 닳고 닳은,전문
+sore,슬픈,중고
+sorry,가엾은,초등
+sort,종류,중고
+soul,혼,중고
+sound,소리,초등
+sour,시큼한 시어지다 시큼한 것,초등
+source,원천,중고
+south,남쪽 남쪽의 남으로,초등
+space,공간,초등
+span,한 뼘,전문
+spare,여분의,중고
+spark,불꽃,중고
+speak,이야기하다,초등
+special,특별한,중고
+species,종,중고
+specific,특정한,중고
+spectacle,광경,전문
+spectrum,스펙트럼,전문
+speech,연설,중고
+speed,속도,초등
+spell,철자하다,중고
+spend,소비하다,중고
+sphere,구,전문
+spill,엎지르다,전문
+spin,잣다,중고
+spirit,정신,중고
+spit,침을 뱉다,전문
+spite,악의,전문
+splash,튀기다,전문
+split,쪼개다,전문
+spoil,망쳐놓다,중고
+spoon,숟가락,초등
+spot,장소,중고
+spouse,배우자,전문
+spread,펴다,중고
+square,정사각형의,중고
+squeeze,압착하다,중고
+stable,안정된,중고
+stack,낟가리,전문
+stage,무대,중고
+stain,더럽히다,중고
+stairs,계단,중고
+stamp,도장,중고
+stand,서다,초등
+standard,표준,중고
+stare,응시하다,중고
+start,시작하다,초등
+starve,굶어 죽다,전문
+state,상태,중고
+station,역,중고
+statistic,통계의 통계량,전문
+statue,조상,중고
+status,신분,중고
+stay,머무르다,초등
+steady,확고한,중고
+steal,훔치다,중고
+steam,증기,중고
+steel,강철,중고
+steep,가파른 -에 담그다 잠기다 담그기,전문
+stem,줄기,중고
+step,걷다,중고
+stick,나무토막,중고
+stiff,굳은,전문
+still,소리가 없는 아직(도),중고
+stimulate,자극하다,전문
+stir,휘젓다,전문
+stitch,한 바늘,전문
+stock,줄기,중고
+stomach,위,중고
+stone,돌,초등
+stop,멈추다,초등
+store,가게,초등
+storm,폭풍,중고
+story,층,초등
+stove,stave의 과거(분사),중고
+straight,곧은,중고
+strain,잡아당기다,전문
+strange,이상한,중고
+strategy,용병학,중고
+straw,짚,중고
+strawberry,딸기,초등
+stream,시내,중고
+street,거리,초등
+stress,압박,초등
+stretch,뻗치다,중고
+strict,엄중한,중고
+strike,치다,중고
+string,끈,중고
+strip,벗기다,전문
+stripe,줄무늬,중고
+stroke,한번치기,전문
+strong,강한,초등
+structure,구조,중고
+struggle,버둥거리다,중고
+student,학생,초등
+study,학문,초등
+stuff,재료,중고
+subject,복종시키다,중고
+subjective,주관의,전문
+submarine,잠수함,중고
+submit,복종시키다,전문
+subscribe,서명승락하다,전문
+substance,물질,전문
+substantial,실체의,전문
+substitute,대용하다 대신하다 대리(인),전문
+subtle,미묘한,전문
+suburb,교외,중고
+subway,지하도,초등
+succeed,성공하다,중고
+such,이러한,중고
+suck,빨다,전문
+sudden,별안간의,중고
+suffer,경험하다,중고
+sufficient,충분한,중고
+sugar,설탕,초등
+suggest,암시하다,중고
+suicide,자살 자살하다,중고
+suit,소송,중고
+suite,수행원,전문
+sum,총계,중고
+summary,요약,중고
+summit,꼭대기,중고
+sun,태양,초등
+super,임시고용배우,중고
+superb,장려한,중고
+superior,뛰어난,중고
+supervise,감독하다,전문
+supper,저녁식사,초등
+supplement,부록,전문
+supply,공급하다,중고
+support,지탱하다,중고
+suppose,상상하다,중고
+sure,"확신하는, 확실한 , 틀림없는",중고
+surface,표면,중고
+surgery,외과,중고
+surprise,놀람,중고
+surrender,넘겨주다,전문
+surround,에워싸다,중고
+survey,둘러보다,중고
+survive,살아 남다,중고
+suspect,짐작하다,중고
+suspend,매달다,전문
+sustain,떠받치다,전문
+swallow,삼키다,중고
+swear,맹세하다,전문
+sweat,땀,중고
+sweep,청소하다,전문
+sweet,단,중고
+swell,부풀다,전문
+swift,빠른,전문
+swim,헤엄치다,초등
+swing,흔들리다,중고
+switch,회초리,중고
+symbol,상징,중고
+sympathy,동정,중고
+symphony,교향곡,중고
+symptom,조짐,중고
+system,조직,중고
+table,테이블,초등
+tackle,고패,중고
+tag,손잡이가죽,중고
+tail,꼬리,초등
+take,잡다,초등
+tale,이야기,중고
+talent,재주,중고
+talk,말하다,초등
+tall,키큰,초등
+tap,가볍게 치기,중고
+tape,테이프,초등
+target,과녁,중고
+task,일,중고
+taste,맛,초등
+tattoo,귀영나팔,중고
+tax,세금,중고
+tea,차,중고
+teach,가르치다,초등
+tear,눈물,중고
+tease,괴롭히다,전문
+teen,슬픔,초등
+teenage,10대,중고
+telegraph,전신,전문
+telephone,전화,초등
+tell,말하다,초등
+temperature,온도,중고
+temple,관자놀이,중고
+temporary,일시적인,전문
+tempt,유혹하다,전문
+tenant,차지인,전문
+tend,(-의)경향이 있다,중고
+tender,제공,중고
+tense,시제,중고
+term,기간,중고
+terminal,종점의,중고
+terminate,끝내다,전문
+terrace,계단모양의 뜰(광장),전문
+terrible,무시무시한,중고
+terrific,무서운,중고
+territory,영토,중고
+test,시험,초등
+testify,증명하다,전문
+text,원문,중고
+textbook,교과서,초등
+than,-보다도,초등
+thank,감사하다 감사,초등
+that,저,초등
+the,art.저,초등
+theater,=theatre 극장,중고
+theme,논제,중고
+then,그때,중고
+theory,이론,중고
+therapy,치료법,전문
+there,거기에,초등
+therefore,그런 까닭에,중고
+they,그들,초등
+thick,두꺼운,중고
+thief,도둑,중고
+thin,얇은,중고
+thing,물건,초등
+think,생각하다,초등
+thirst,갈증,초등
+this,이,초등
+thorough,완전한,중고
+though,-임에도 불구하고 그러나,중고
+thousand,천,중고
+thread,실,전문
+threat,협박,중고
+thrill,오싹하다 오싹함,중고
+throat,목,중고
+through,(-을)통하여 통하여 직통의,중고
+throw,던지다,중고
+thumb,엄지손가락 엄지손가락으로 만지다,중고
+thus,이렇게,중고
+tick,시계소리,전문
+tide,조수,중고
+tidy,말쑥한,중고
+tie,매다,중고
+tiger,호랑이,초등
+tight,단단한,중고
+till,-까지,중고
+timber,재목,전문
+time,때,초등
+tin,주석,중고
+tiny,자그마한,중고
+tip,끝,중고
+tire,피로하게 하다,중고
+tissue,조직,중고
+title,표제,중고
+to,-로,초등
+tobacco,담배,중고
+today,오늘은,초등
+toe,발가락,중고
+together,같이,초등
+toilet,화장실,중고
+tomorrow,내일(은),초등
+tone,음조,중고
+tongue,혀,중고
+tonight,오늘밤에 오늘밤,초등
+too,(-도)또한,초등
+tool,사용세,중고
+tooth,이,초등
+top,정상,초등
+torture,고문,전문
+toss,던지다,중고
+total,총계 전체의 합계하다,중고
+touch,닿다,초등
+tough,단단한,중고
+tour,일주,초등
+toward,-쪽으로,중고
+tower,탑,초등
+town,읍,초등
+toxic,독의,중고
+toy,장난감 장난하다,초등
+trace,발자국,중고
+trade,매매,중고
+tradition,전설,중고
+traffic,교통,중고
+tragic,비극의,중고
+trail,질질 끌다,전문
+train,기차,초등
+transact,처리하다,전문
+transfer,옮기다,중고
+transform,"변형(변용,변태)시키다",중고
+transition,변천,전문
+translate,번역하다,중고
+transmit,보내다,전문
+transport,수송(운송)하다,중고
+trap,덫,중고
+travel,여행하다,초등
+tray,쟁반,중고
+treasure,보물,중고
+treat,대우하다,중고
+treaty,조약,전문
+tree,나무,초등
+tremendous,무서운,전문
+trend,방향,중고
+trial,시험,중고
+triangle,각형,초등
+tribe,종족,중고
+trick,책략,중고
+trigger,방아쇠 재빠른,전문
+trim,산뜻한 정돈하다,전문
+trip,여행,초등
+triumph,승리,중고
+troop,대,중고
+trophy,전리품,중고
+trouble,고생,중고
+trouser,즈봉,중고
+true,진실,초등
+trunk,줄기,중고
+trust,신용,중고
+truth,진리,중고
+try,시험해보다,초등
+tube,관,중고
+tune,곡,중고
+tunnel,터널,중고
+turn,돌리다,초등
+turnover,전복,전문
+tutor,가정교사,중고
+twice,두 번,초등
+twin,쌍동이,중고
+twist,꼬이다,중고
+type,형,초등
+typical,전형적인,중고
+ugly,추한,초등
+ultimate,최후의,중고
+umbrella,우산,초등
+uncle,아저씨,초등
+under,-아래에,초등
+undergo,(영향 등을)받다,전문
+underlie,-의 밑에 있다,전문
+undermine,-밑을 파다,전문
+understand,이해하다,초등
+undertake,떠맡다,전문
+uniform,한결같은,중고
+unify,하나로 하다,중고
+union,결합,중고
+unique,유일무이한,중고
+unit,단위,중고
+unite,결합하다,중고
+universe,우주,중고
+university,종합대학(교) 대학의(에 관계 있는),중고
+unless,-하지 않으면,중고
+until,-까지,중고
+up,위로,초등
+update,새롭게 하다 최신정보,중고
+upon,-의 위에,중고
+upper,위쪽의,중고
+upset,뒤집어 엎다,중고
+upward,위로 향한,중고
+urban,도시의,중고
+urge,몰아대다,중고
+urgent,긴급한,중고
+use,쓰다,초등
+usual,평소의,중고
+utilize,-을 이용하다,전문
+utter,전적인,전문
+vacation,휴가,중고
+vacuum,진공,중고
+vague,막연한,전문
+valid,유효한,전문
+valley,골짜기,중고
+value,가치,중고
+van,유개트럭,중고
+vanish,자취를 감추다,전문
+various,가지가지의,중고
+vary,바꾸다,중고
+vast,"광대한, 광막한 막대한",중고
+vegetable,"식물  야채, 푸성귀, 남새, 채소",초등
+vehicle,"운반 기구, 운송 수단,  수레, 차량, 탈것",중고
+venture,모험,중고
+verbal,"말의, 말에 관한, 언어상의, 말로 나타낸, 말로 된",전문
+verse,"시의 한 줄, 시구  일련의 시구",전문
+version,"번역, 번역문 개작, 각색, 번안",중고
+versus,"…대, …에 대한",중고
+vertical,"수평면에 직각인, 수직의",전문
+very,매우,초등
+vessel,그릇,전문
+veteran,"노련가, 경험 많은 대가, 베테랑",전문
+veterinarian,수의사,전문
+via,"…을 거쳐, …을 경유하여",중고
+vice,"악덕,  비행, 타락 행위",전문
+victim,"희생, 산 제물, 인신 제물",중고
+victory,"승리, 전승",중고
+view,"봄, 관찰, 개관, 실지 검증  보는 힘, 시계, 시야",중고
+vigorous,"정력적인, 강건한, 활기 있는, 격렬한",전문
+village,"마을, 촌락",중고
+violent,"격렬한, 맹렬한",중고
+virgin,"처녀, 동정녀, 미혼 여성, 동정녀 마리아",전문
+virtual,"사실상의, 실질상의, 실제의  허상의",전문
+virtue,"덕, 덕행, 선, 선행",전문
+visible,"눈에 보이는,  볼 수 있는",중고
+visit,"방문하다, …의 손님으로 묵다",초등
+visual,"시각의, 물건을 보기 위한",중고
+vital,"생명의, 생명에 관한, 생명유지에 필요한, 살아 있는",전문
+vivid,"발랄한, 약동적인, 힘찬, 생기있는",전문
+vocabulary,"어휘, 용어수, 용어 범위",중고
+vocation,"천직, 사명 직업, 생업, 장사  적성, 소질, 재능",전문
+voice,"목소리, 음성, 음성",초등
+volume,책  권,중고
+voluntary,"자발적인, 수의의",중고
+vote,"찬부 표시, 투표, 표결",중고
+voyage,여행,중고
+wage,임금,중고
+wagon,짐마차,전문
+wait,기다리다,초등
+wake,잠깨다,초등
+walk,걷다,초등
+wall,벽,초등
+wander,헤매다,전문
+want,결핍,초등
+war,전쟁,초등
+warehouse,창고,전문
+warm,따뜻한,초등
+warn,경고하다,중고
+warrant,보증하다 보증,전문
+warrior,병사,전문
+wash,씻다,초등
+waste,낭비하다,중고
+watch,손목시계,초등
+water,물,초등
+watermelon,수박,초등
+wave,물결,중고
+way,길,초등
+we,우리가,초등
+weak,약한,중고
+wealth,재산,중고
+weapon,무기,중고
+wear,입다,초등
+weather,날씨,초등
+weave,짜다,전문
+wedding,혼례,초등
+weed,잡초 잡초를 뽑다,전문
+week,주,초등
+weekend,주말 주말의 주말을 지내다,초등
+weigh,무게를 달다,중고
+weight,무게,초등
+weird,불가사의한,중고
+welcome,환영 환영받는,초등
+welfare,행복,중고
+well,잘,초등
+west,서쪽,초등
+wet,축축한,초등
+whale,고래,중고
+what,무엇 무슨,초등
+wheat,밀,중고
+wheel,바퀴,중고
+when,언제,초등
+where,어디에 (-하는)곳에 pr.어디 (문제의)장소,초등
+whereas,cnj.(-인)까닭에,전문
+whether,-인지 어떤지,중고
+which,어느 쪽,중고
+while,동안 -하는 동안,중고
+whip,채찍 채찍질하다,전문
+whisper,속삭이다,중고
+whistle,휘파람,중고
+white,흰,초등
+who,누구,초등
+whole,전체의,중고
+why,왜,초등
+wicked,사악한,전문
+wide,폭넓은,중고
+widespread,널리 보급되어 있는,중고
+widow,미망인,전문
+wife,아내,초등
+wild,야생의,중고
+will,의지,초등
+win,이기다,초등
+wind,바람,초등
+window,창,초등
+wing,날개,중고
+wipe,닦다,중고
+wire,철사,중고
+wise,슬기로운,중고
+wish,바라다,초등
+wit,기지,중고
+with,함께,초등
+withdraw,물러나다,전문
+within,prop.-의 안쪽에 안으로 내부,중고
+without,prop.-없이 밖은,중고
+witness,증언,중고
+woman,부인,초등
+wonder,경이,중고
+wood,숲,초등
+wool,양모,중고
+word,낱말,초등
+work,일,초등
+world,세계,초등
+worry,근심하다,초등
+worship,숭배,중고
+worth,가치가 있는 가치,중고
+would,auwill의 과거,중고
+wound,부상,중고
+wrap,싸다,중고
+wreck,난파,전문
+write,쓰다,초등
+wrong,나쁜,초등
+year,연,초등
+yell,고함치다,중고
+yellow,황색의 황색,초등
+yes,예,초등
+yesterday,어제,초등
+yet,아직,중고
+yield,산출하다,전문
+you,당신,초등
+young,젊은,초등
+zebra,얼룩말,초등
+zone,대,중고
+zoo,동물원,초등
