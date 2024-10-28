@@ -1,9 +1,9 @@
 #ifndef WORD_
 #define WORD_
+#define WORD_MAX_COUNT 3000
+#include <iostream>
 #include <string>
-#include <vector>
-
-
+#include <random>
 
 struct Word
 {
@@ -19,10 +19,11 @@ struct Word
     std::string en;
     Word::Difficulty difficulty;
 
-    Word(std::string _kr, std::string _en, Difficulty _difficulty) : kr(_kr), en(_en), difficulty(_difficulty) {}
+    Word(std::string _kr, std::string _en, Difficulty _difficulty) :
+        kr(_kr), en(_en), difficulty(_difficulty) {}
 };
 
-std::vector<Word> words = 
+Word words[WORD_MAX_COUNT] = 
 {
     Word("하나의", "a", Word::Difficulty::Easy),
     Word("버리다", "abandon", Word::Difficulty::Normal),
@@ -3025,5 +3026,13 @@ std::vector<Word> words =
     Word("대", "zone", Word::Difficulty::Normal),
     Word("동물원", "zoo", Word::Difficulty::Easy),
 };
+
+std::random_device rd;
+std::mt19937 gen(rd());
+std::uniform_int_distribution<int> dis(0, WORD_MAX_COUNT);
+Word GetRandomWord()
+{
+    return words[dis(gen)];
+}
 
 #endif
